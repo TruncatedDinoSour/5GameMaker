@@ -4,7 +4,7 @@ get outta here
 
 A russian student. *there was a long description of how terrible i am, but i kinda erased it*
 
-i use   btw
+i use  ᲼btw
 
 ![My Desktop](https://pbs.twimg.com/media/FFXZwYtXoAYJYTp?format=png&name=large)
 
@@ -25,6 +25,6 @@ This README uses [Nerd Fonts](https://www.nerdfonts.com) glyphs to make it look 
 - ⚡ Fun fact: *no fun allowed*
 - 🕥 Timezone: ENOPERM: `Cannot READ '/etc/timezone'`
 - 🥩 Favorite food: *big tasty*
--   Preferred OS: GNU/Linux
+-  ᲼Preferred OS: GNU/Linux
 - 🎮 Favorite video games: [OMORI](https://omori.fandom.com/wiki/OMORI_WIKI) (yes, it's written in caps), [Minecraft](https://minecraft.net) (JE, BE sucks), [UNDERTABLE](https://undertale.com/), [DELTARUNE](https://deltarune.com/), Antiyoy (no link i guess)
 - ✍️ My Bio: [here](https://github.com/5GameMaker/5GameMaker/blob/master/README.md)

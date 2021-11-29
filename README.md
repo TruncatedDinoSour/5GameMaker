@@ -26,5 +26,5 @@ This README uses [Nerd Fonts](https://www.nerdfonts.com) glyphs to make it look 
 - 🕥 Timezone: ENOPERM: `Cannot READ '/etc/timezone'`
 - 🥩 Favorite food: *big tasty*
 -  ᲼Preferred OS: GNU/Linux
-- 🎮 Favorite video games: [OMORI](https://omori.fandom.com/wiki/OMORI_WIKI) (yes, it's written in caps), [Minecraft](https://minecraft.net) (JE, BE sucks), [UNDERTABLE](https://undertale.com/), [DELTARUNE](https://deltarune.com/), Antiyoy (no link i guess)
+- 🎮 Favorite video games: [OMORI](https://omori.fandom.com/wiki/OMORI_WIKI) (yes, it's written in caps), [Minecraft](https://minecraft.net) (JE, BE sucks), [UNDERTALE](https://undertale.com/), [DELTARUNE](https://deltarune.com/), Antiyoy (no link i guess)
 - ✍️ My Bio: [here](https://github.com/5GameMaker/5GameMaker/blob/master/README.md)

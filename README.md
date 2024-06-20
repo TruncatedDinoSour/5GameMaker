@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/5GameMaker>
 get outta here
 
 # A random typescript developer
